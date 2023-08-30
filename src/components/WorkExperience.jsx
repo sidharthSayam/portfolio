@@ -8,8 +8,7 @@ import viseven from "../assets/viseven.png";
 import codingHustle from "../assets/codinghustle.jpg";
 
 function WorkExperience() {
-  const images = [recipeat, viseven, codingHustle, avid];
-  console.log(experiences);
+  const images = [avid];
   return (
     <motion.div
       initial={{ opacity: 0 }}
